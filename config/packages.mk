@@ -59,6 +59,7 @@ PRODUCT_PACKAGES += \
     PixelThemesStub2019 \
     WallpaperPickerGoogle \
     OmniJaws \
+    OmniSwitch \
     WeatherIcons \
     QuickAccessWallet \
     Flipendo \
